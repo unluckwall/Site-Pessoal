@@ -1,0 +1,176 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #0e0e10;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #efeff1;
+}
+
+p {
+    height: 40px;
+}
+
+#banner {
+    display: flex;
+    justify-content: center;
+}
+
+#topo {
+    display: flex;
+    flex-direction: row;
+    margin: 12px;
+    padding-left: 12px;
+}
+
+#fotoP {
+    width: 68px;
+    height: 68px;
+    margin: 10px;
+}
+
+#foto {
+    border-radius: 50%;
+}
+
+#menu ul {
+    margin-top: 30px;
+}
+
+#menu ul li {
+    display: inline;
+}
+
+#menu ul li a {
+    padding: 25px;
+    color: #efeff1;
+    text-decoration: none;
+}
+
+#menu ul li a:hover {
+    color: #772ce8;
+}
+
+#jogos {
+    display: flex;
+    flex-direction: column;
+}
+
+#TheW {
+    display: flex;
+}
+
+#fotoTW {
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+#TW{
+    margin-left: 25px;
+    height: 40px;
+}
+
+#linktw {
+    color: #efeff1;
+    text-decoration: none;
+}
+
+#linktw:hover {
+    color: #772ce8;
+}
+
+.TWp {
+    height: 40px;
+    text-align: justify;
+    margin: 10px;
+}
+
+#textTW {
+    flex-direction: row;
+}
+
+#COD {
+    display: flex;
+}
+
+#codh {
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+#linkcod {
+    color: #efeff1;
+    text-decoration: none;
+}
+
+#linkcod:hover {
+    color: #772ce8;
+}
+
+.codp {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+#codf {
+    margin-top: 70px;
+    margin-right: 20px;
+}
+
+#watch {
+    display: flex;
+    flex-direction: row;
+}
+
+#watchF {
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+#watchH {
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+#linkwatch {
+    color: #efeff1;
+    text-decoration: none;
+}
+
+#linkwatch:hover {
+    color: #772ce8;
+}
+
+.watchP {
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+#contato {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+}
+
+h5 {
+    margin-left: 5px;
+}
+
+#hcontato {
+    margin-top: 8px;
+}
+
+.rodap {
+    margin-right: 10px;
+    font-size: 14px;
+	text-align: end;
+}
+
+#rodape {
+    background-color: #050506;
+    display: flexbox;
+    flex-direction: row;
+    margin-top: 70px;
+}

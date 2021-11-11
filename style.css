@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #0e0e10;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #efeff1;
+}
+
+#banner {
+    display: flex;
+    justify-content: center;
+}
+
+#topo {
+    display: flex;
+    flex-direction: row;
+    margin: 12px;
+    padding-left: 12px;
+}
+
+#fotoP {
+    width: 68px;
+    height: 68px;
+    margin: 10px;
+}
+
+#foto {
+    border-radius: 50%;
+}
+
+#menu ul {
+    margin-top: 30px;
+}
+
+#menu ul li {
+    display: inline;
+}
+
+#menu ul li a {
+    padding: 25px;
+    color: #efeff1;
+    text-decoration: none;
+}
+
+#menu ul li a:hover {
+    color: #772ce8;
+}
+
+#Bio {
+    text-align: center;
+}
+
+.biop {
+    margin: 8px;
+    font-size: 20px;
+}
+
+#contato {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+}
+
+h5 {
+    margin-left: 5px;
+}
+
+#hcontato {
+    margin-top: 8px;
+}
+
+.rodap {
+    margin-right: 10px;
+    font-size: 14px;
+	text-align: end;
+}
+
+#rodape {
+    background-color: #050506;
+    display: flexbox;
+    flex-direction: row;
+    margin-top: 70px;
+}

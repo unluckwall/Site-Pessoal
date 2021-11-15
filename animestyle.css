@@ -49,7 +49,7 @@ body {
     color: #772ce8;
 }
 
-#jogos {
+#Series {
     display: flex;
     flex-direction: column;
 }
@@ -87,59 +87,41 @@ body {
     flex-direction: row;
 }
 
-#COD {
+#naruto {
     display: flex;
 }
 
-#codh {
+#narutoh {
     margin-top: 40px;
     margin-left: 100px;
 }
 
-#linkcod {
-    color: #efeff1;
-    text-decoration: none;
-}
-
-#linkcod:hover {
-    color: #772ce8;
-}
-
-.codp {
+.narutop {
     margin-top: 20px;
     margin-left: 100px;
 }
 
-#codf {
+#narutof {
     margin-top: 70px;
     margin-right: 20px;
 }
 
-#watch {
+#thelast {
     display: flex;
     flex-direction: row;
 }
 
-#watchF {
+#thelastF {
     margin-top: 40px;
     margin-left: 100px;
 }
 
-#watchH {
+#thelastH {
     margin-left: 25px;
     margin-top: 20px;
 }
 
-#linkwatch {
-    color: #efeff1;
-    text-decoration: none;
-}
-
-#linkwatch:hover {
-    color: #772ce8;
-}
-
-.watchP {
+.thelastP {
     margin-left: 15px;
     margin-top: 20px;
 }

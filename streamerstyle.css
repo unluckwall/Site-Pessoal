@@ -49,6 +49,11 @@ body {
     color: #772ce8;
 }
 
+#streamer {
+    display: flex;
+    flex-direction: column;
+}
+
 #alanzoka {
     display: flex;
 }
@@ -108,6 +113,39 @@ body {
 #fcasimiro {
     margin-top: 70px;
     margin-right: 20px;
+}
+
+#smzinho {
+    display: flex;
+}
+
+#fotosmzinho {
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+#smzinhoH{
+    margin-left: 25px;
+    height: 40px;
+}
+
+#linksmzinho {
+    color: #efeff1;
+    text-decoration: none;
+}
+
+#linksmzinho:hover {
+    color: #772ce8;
+}
+
+.smzinhoP {
+    height: 40px;
+    text-align: justify;
+    margin: 10px;
+}
+
+#smzinhotext {
+    flex-direction: row;
 }
 
 #contato {
